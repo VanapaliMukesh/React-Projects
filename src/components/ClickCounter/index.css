@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+.heading {
+  font-family: roboto;
+  font-size: 35px;
+  color: #2d3a35;
+  font-weight: bold;
+}
+.pargaraph {
+  font-family: roboto;
+  font-size: 20px;
+  color: #2d3a35;
+}
+.span {
+  color: #c20a72;
+  font-family: roboto;
+  font-size: 30px;
+  justify-content: center;
+  margin-left: 150px;
+}
+.button {
+  font-family: roboto;
+  font-size: 20px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 8px;
+}
